@@ -1,4 +1,5 @@
-# Tiny Tails, Big Hearts: Discover How Guinea Pigs Can Enhance Your Emotional Well-being
+# AI-Powered Web Development
+## Leveraging ChatGPT to Enhance Your Website
 
 - [Link to suggested guidelines using ChatGPt](https://docs.google.com/document/d/1RkoJx6wwhN_fqp6QLaAWut7Fk6JXX7s4SIAg8iAeq-0/edit?usp=sharing)
 - [Link to sample site narrative](https://docs.google.com/document/d/1dadG7DjokSpvLIPr5esdgLjUuGZkgu2XdQ1qlcVCx1A/edit?usp=sharing)
