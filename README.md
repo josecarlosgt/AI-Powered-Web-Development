@@ -10,5 +10,5 @@
 
 Links:
 - [Before-optimization report](https://googlechrome.github.io/lighthouse/viewer/?gist=72f330bc311e1d2d3755fa9052b5dc99)
-- [Website before optimization](https://josecarlosgt.github.io/AI-Powered-Web-Development/index-optimized.html)
+- [Website after optimization](https://josecarlosgt.github.io/AI-Powered-Web-Development/index-optimized.html)
 - [After-optimization report](https://googlechrome.github.io/lighthouse/viewer/?gist=46490e7bb0499f9f9da4f2f06560e3e5)
