@@ -8,3 +8,5 @@
 
 ## Website Optimization with Google Lighthouse
 
+Links:
+- [Before-optimization report](https://googlechrome.github.io/lighthouse/viewer/?gist=72f330bc311e1d2d3755fa9052b5dc99)
